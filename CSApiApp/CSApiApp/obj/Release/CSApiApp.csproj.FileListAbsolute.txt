@@ -1,0 +1,10 @@
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\bin\Release\CSApiApp.exe.config
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\bin\Release\CSApiApp.exe
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\bin\Release\CSApiApp.pdb
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Release\CSApiApp.Form1.resources
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Release\CSApiApp.Properties.Resources.resources
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Release\CSApiApp.csproj.GenerateResource.cache
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Release\CSApiApp.csproj.CoreCompileInputs.cache
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Release\CSApiApp.exe
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Release\CSApiApp.pdb
+C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Release\CSApiApp.csprojAssemblyReference.cache
