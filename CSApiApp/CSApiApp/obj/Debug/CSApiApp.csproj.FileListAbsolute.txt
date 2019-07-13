@@ -8,3 +8,13 @@ C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Debug\CSApiApp.csproj.Generate
 C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Debug\CSApiApp.csproj.CoreCompileInputs.cache
 C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Debug\CSApiApp.exe
 C:\Users\dmutp\source\repos\CSApiApp\CSApiApp\obj\Debug\CSApiApp.pdb
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\obj\Debug\CSApiApp.csprojAssemblyReference.cache
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\obj\Debug\CSApiApp.Form1.resources
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\obj\Debug\CSApiApp.Properties.Resources.resources
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\obj\Debug\CSApiApp.csproj.GenerateResource.cache
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\obj\Debug\CSApiApp.csproj.CoreCompileInputs.cache
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\obj\Debug\CSApiApp.exe
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\obj\Debug\CSApiApp.pdb
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\bin\Debug\CSApiApp.exe.config
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\bin\Debug\CSApiApp.exe
+C:\Users\Dmutp\Desktop\CSharpApp-master\CSApiApp\CSApiApp\bin\Debug\CSApiApp.pdb

@@ -70,6 +70,8 @@
             this.button5.TabIndex = 9;
             this.button5.Text = "SEND MESSAGE";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.Button5_Click);
+            this.button5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Button5_MouseClick);
             // 
             // button3
             // 
@@ -79,6 +81,7 @@
             this.button3.TabIndex = 7;
             this.button3.Text = "push_message";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Button3_MouseClick);
             // 
             // button2
             // 
@@ -88,6 +91,7 @@
             this.button2.TabIndex = 6;
             this.button2.Text = "push user_id";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // button1
             // 
@@ -101,19 +105,19 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(57, 100);
+            this.textBox1.Location = new System.Drawing.Point(57, 49);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(186, 20);
-            this.textBox1.TabIndex = 3;
-            this.textBox1.Text = "Введите сообщение..";
+            this.textBox1.TabIndex = 2;
+            this.textBox1.Text = "Введите access_token..";
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(57, 49);
+            this.textBox3.Location = new System.Drawing.Point(57, 100);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(186, 20);
-            this.textBox3.TabIndex = 2;
-            this.textBox3.Text = "Введите access_token..";
+            this.textBox3.TabIndex = 3;
+            this.textBox3.Text = "Введите сообщение..";
             // 
             // textBox2
             // 
@@ -143,10 +147,6 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox2;
-        
-
-
-
     }
 }
 
